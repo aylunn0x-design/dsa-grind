@@ -30,6 +30,10 @@ Each problem write-up should include:
 ## Current progress
 - arrays
   - two-sum
+- strings
+  - valid-anagram
+- binary-search
+  - binary-search
 
 ## Standard
 The point is not just solving problems — it is building reusable thinking patterns.
