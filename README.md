@@ -34,6 +34,10 @@ Each problem write-up should include:
   - valid-anagram
 - binary-search
   - binary-search
+- hashmaps
+  - group-anagrams
+- two-pointers
+  - valid-palindrome
 
 ## Standard
 The point is not just solving problems — it is building reusable thinking patterns.
