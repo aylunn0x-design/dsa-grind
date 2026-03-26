@@ -30,6 +30,7 @@ Each problem write-up should include:
 ## Current progress
 - arrays
   - two-sum
+  - best-time-to-buy-and-sell-stock
 - strings
   - valid-anagram
 - binary-search
@@ -38,6 +39,8 @@ Each problem write-up should include:
   - group-anagrams
 - two-pointers
   - valid-palindrome
+- graphs
+  - number-of-islands
 
 ## Standard
 The point is not just solving problems — it is building reusable thinking patterns.
